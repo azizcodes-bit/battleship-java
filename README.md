@@ -14,6 +14,9 @@ A console-based implementation of the classic Battleship game developed in Java 
 - Random computer ship placement
 - Computer opponent with random shooting
 - Win detection
+  ## Screenshot
+
+![Battleship console game](battleship-demo.png)
 
 ## Technologies
 
